@@ -1,9 +1,6 @@
 # FlowersClassification-using-CNN
 This project uses convolutional neural networks (CNN) to classify flowers based on images. The dataset used in this project is the Flower Recognition dataset from Kaggle, which contains 4323 images of flowers from 5 different species. The model achieved an accuracy of 96% in classifying flower species.
 
-## About me
-i am a computer science engineer specialized in data science and machine learning, I offer my services on 'Upwork' and 'Freelancer'. you can check out my profile [https://www.freelancer.com/u/jalilb9] [https://www.upwork.com/freelancers/~01c41cc0b08423ddb3]
-
 ## Dataset
 The Flower Recognition dataset contains 4323 images of flowers from 5 different species: daisy, dandelion, rose, sunflower, and tulip. The images are in JPEG format and have a resolution of 320x240 pixels. The dataset is split into a training set (70%) and a validation set (30%).
 
